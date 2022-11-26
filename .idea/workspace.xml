@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="Camera class done">
+    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="Scene class done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Scene.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669468716019</updated>
-      <workItem from="1669468719002" duration="7948000" />
+      <workItem from="1669468719002" duration="9443000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669468809483</created>
@@ -129,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669483206381</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Scene class done">
+      <created>1669484156013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1669484156013</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +168,7 @@
     <MESSAGE value="Flash class done" />
     <MESSAGE value="Flash class correct" />
     <MESSAGE value="Camera class done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Camera class done" />
+    <MESSAGE value="Scene class done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scene class done" />
   </component>
 </project>

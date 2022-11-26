@@ -6,8 +6,9 @@ import java.util.Set;
 public class Polygon {
     private final Set<Point3D> points;
 
-    public Polygon() {
+    public Polygon(Point3D point) {
         this.points = new HashSet<>();
+        this.points.add(point);
     }
 
     public Set<Point3D> getPoints() {
