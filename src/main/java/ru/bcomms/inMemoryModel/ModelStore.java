@@ -30,8 +30,8 @@ public class ModelStore implements IModelChanger{
     }
 
     @Override
-    public void notifyChange(IModelChanger sender) {
-        changeObservers.forEach(observer -> observer.applyUpdateModel(sender));
+    public void notifyChange(ModelStore store) {
+        changeObservers.forEach(observer -> observer.applyUpdateModel(store));
     }
 
     @Override
@@ -45,10 +45,18 @@ public class ModelStore implements IModelChanger{
     }
 
     public boolean addScene(Scene scene) {
-        return scenes.add(scene);
+        if (scenes.add(scene)) {
+            this.notifyChange(this);
+            return true;
+        }
+        return false;
     }
 
     public boolean removeScene(Scene scene) {
-        return scenes.remove(scene);
+        if (scenes.remove(scene)) {
+            this.notifyChange(this);
+            return true;
+        }
+        return false;
     }
 }

@@ -1,6 +1,6 @@
 package ru.bcomms.inMemoryModel;
 
-public class SceneObserver implements IModelChangedObserver{
+public class AnotherSceneObserver implements IModelChangedObserver {
     @Override
     public void applyUpdateModel(ModelStore store) {
         // Update something...
