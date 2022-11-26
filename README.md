@@ -1,1 +1,3 @@
 # softwareArchitecture
+
+![Diagram](diagram.png)
