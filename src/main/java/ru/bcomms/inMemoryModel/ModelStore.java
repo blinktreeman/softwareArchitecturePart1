@@ -7,7 +7,7 @@ import ru.bcomms.modelElements.Scene;
 
 import java.util.*;
 
-public class ModelStore implements IModelChanger{
+public class ModelStore implements IModelChanger {
     private final List<IModelChangedObserver> changeObservers = new ArrayList<>();
     // Не совсем понятно зачем нам эти поля если все есть в Scene
     private Set<PolygonalModel> models;
