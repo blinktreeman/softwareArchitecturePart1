@@ -20,16 +20,14 @@ public class Flash {
     }
 
     public void move(Point3D point) {
-        this.location.setX(point.getX());
-        this.location.setY(point.getY());
-        this.location.setZ(point.getZ());
+        this.setLocation(point);
     }
 
     public Point3D getLocation() {
         return location;
     }
 
-    public void setLocation(Point3D location) {
+    private void setLocation(Point3D location) {
         this.location = location;
     }
 
@@ -37,7 +35,7 @@ public class Flash {
         return angle;
     }
 
-    public void setAngle(Angle3D angle) {
+    private void setAngle(Angle3D angle) {
         this.angle = angle;
     }
 
