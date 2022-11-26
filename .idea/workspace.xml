@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="correct constructors">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/SceneObserver.java" afterDir="false" />
+    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="task done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChangedObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChangedObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669468716019</updated>
-      <workItem from="1669468719002" duration="13764000" />
+      <workItem from="1669468719002" duration="14543000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669468809483</created>
@@ -148,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669484855493</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="task done">
+      <created>1669489968007</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669489968007</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +181,7 @@
     <MESSAGE value="Camera class done" />
     <MESSAGE value="Scene class done" />
     <MESSAGE value="correct constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="correct constructors" />
+    <MESSAGE value="task done" />
+    <option name="LAST_COMMIT_MESSAGE" value="task done" />
   </component>
 </project>
