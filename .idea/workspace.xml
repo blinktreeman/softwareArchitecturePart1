@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="add diagram">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChangedObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Flash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/PolygonalModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Scene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Texture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="create Point3D fields n methods">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669468716019</updated>
-      <workItem from="1669468719002" duration="4124000" />
+      <workItem from="1669468719002" duration="4968000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669468809483</created>
@@ -77,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669469012087</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Point3D create PolygonalModel methods">
+      <created>1669479551334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669479551334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create Point3D fields n methods">
+      <created>1669479998891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669479998891</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +99,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="add diagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="add diagram" />
+    <MESSAGE value="add Point3D create PolygonalModel methods" />
+    <MESSAGE value="create Point3D fields n methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="create Point3D fields n methods" />
   </component>
 </project>
