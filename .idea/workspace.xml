@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="create Polygon fields n methods">
+    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="Camera class done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Texture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669468716019</updated>
-      <workItem from="1669468719002" duration="5721000" />
+      <workItem from="1669468719002" duration="7948000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669468809483</created>
@@ -87,7 +87,49 @@
       <option name="project" value="LOCAL" />
       <updated>1669480441561</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create Texture class">
+      <created>1669481396619</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669481396619</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create Angle3D class">
+      <created>1669481783611</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669481783611</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add Color enum">
+      <created>1669481998929</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669481998929</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Flash class done">
+      <created>1669482528393</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669482528393</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Flash class correct">
+      <created>1669482949380</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669482949380</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Camera class done">
+      <created>1669483206381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669483206381</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +152,12 @@
     <MESSAGE value="add Point3D create PolygonalModel methods" />
     <MESSAGE value="create Point3D fields n methods" />
     <MESSAGE value="create Polygon fields n methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Polygon fields n methods" />
+    <MESSAGE value="create Texture class" />
+    <MESSAGE value="create Angle3D class" />
+    <MESSAGE value="add Color enum" />
+    <MESSAGE value="Flash class done" />
+    <MESSAGE value="Flash class correct" />
+    <MESSAGE value="Camera class done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Camera class done" />
   </component>
 </project>
