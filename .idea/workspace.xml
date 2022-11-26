@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="Scene class done">
+    <list default="true" id="78940bcb-3c31-424e-8804-a808649f35a9" name="Changes" comment="correct constructors">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/SceneObserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChangedObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChangedObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/IModelChanger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/inMemoryModel/ModelStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Polygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/bcomms/modelElements/Scene.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669468716019</updated>
-      <workItem from="1669468719002" duration="9443000" />
+      <workItem from="1669468719002" duration="13764000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1669468809483</created>
@@ -139,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669484156013</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="correct constructors">
+      <created>1669484855493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669484855493</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +178,7 @@
     <MESSAGE value="Flash class correct" />
     <MESSAGE value="Camera class done" />
     <MESSAGE value="Scene class done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scene class done" />
+    <MESSAGE value="correct constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct constructors" />
   </component>
 </project>
